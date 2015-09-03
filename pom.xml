@@ -77,7 +77,7 @@
                         </executions>
                         <configuration>
                             <includes>
-                                <include>/calculator-unit-test-example-java/**</include>
+                                <include>com/github/**</include>
                             </includes>
                         </configuration>
                     </plugin>
