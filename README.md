@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sh111222/test.svg)](https://travis-ci.org/sh111222/test)
+
 Calculator unit test example in Java
 ===============
 
